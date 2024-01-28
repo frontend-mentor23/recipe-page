@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/frontend-mentor23/social-link-profile)
-- Live Site URL: [Add live site URL here](https://frontend-mentor23.github.io/social-link-profile/)
+- Solution URL: [Solution URL](https://github.com/frontend-mentor23/recipe-page)
+- Live Site URL: [Live site](https://frontend-mentor23.github.io/recipe-page/)
 
 ## My process
 
@@ -28,7 +28,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS
-- Flexbox
 
 ## Author
 
